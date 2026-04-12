@@ -4,15 +4,18 @@ Esse projeto foi desenvolvido em Python para auxiliar a empresa de marketing "Tu
 
 # Como funciona: 
 
-01- O programa solicita nome e idade da pessoa entrevistada;
-
-02- O programa solicita a sua nota para atendimento, com base em:
-"1 - Excelente
- 2 - Bom
- 3 - Ruim"
-
-03- O programa contabiliza quantas respostas "Excelente" e "Ruim" foram respondidas
-04- Ao final, o programa exibe o resultado final da pesquisa.
+- Solicita nome e idade da pessoa entrevistada
+  
+- Permite avaliar o atendimento:
+  - 1: Excelente
+  - 2: Bom
+  - 3: Ruim
+    
+- Conta quantas respostas foram:
+  - Excelente
+  - Ruim
+    
+- Ao final, exibe o resultado da pesquisa.
 
 # Tecnologias utilizadas: 
 <div style="display: inline_block"><br>
