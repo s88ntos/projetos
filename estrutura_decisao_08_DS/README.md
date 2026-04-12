@@ -1,6 +1,6 @@
 # Pesquisa de Satisfação de Atendimento - TudoWeb
 
-Esse projeto foi desenvolvido em Python para auxiliar a empresa de marketing "TudoWeb" a realizar uma a pesquisa de opinião com seus clientes, e monitor o índice de satisfação com base nas respostas fornecidas.
+Esse projeto foi desenvolvido em Python para auxiliar a empresa de marketing fictícia "TudoWeb" a realizar uma a pesquisa de opinião com seus clientes, e monitor o índice de satisfação com base nas respostas fornecidas.
 
 # Como funciona: 
 
