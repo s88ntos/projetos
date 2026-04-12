@@ -5,6 +5,7 @@ Esse projeto foi desenvolvido em Python para auxiliar a empresa de marketing "Tu
 # Como funciona: 
 
 01- O programa solicita nome e idade da pessoa entrevistada;
+
 02- O programa solicita a sua nota para atendimento, com base em:
 "1 - Excelente
  2 - Bom
